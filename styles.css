@@ -62,13 +62,12 @@ background-image:url("images/crash.png");
 .red {
   color: red;
 }
-/*@media (max-width:500px) {
+@media (max-width:500px) {
   .drum{
     display: block;
     margin:auto;
   }
 }
-*/
 .drum {
   outline: none;
   border: 10px solid #404B69;
